@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1701740339 source:c:\users\ahmed\desktop\mec acadmy\project oop\main.cpp
+	<bits/stdc++.h>
+	"Animal.h"
+	"Dog.h"
+	"Cat.h"
+	"Bird.h"
+	"Customer.h"
+	"Owner.h"
+
+1700524642 c:\users\ahmed\desktop\mec acadmy\project oop\include\animal.h
+	<bits/stdc++.h>
+
+1700608476 source:c:\users\ahmed\desktop\mec acadmy\project oop\src\animal.cpp
+	"Animal.h"
+
+1701740225 source:c:\users\ahmed\desktop\mec acadmy\project oop\src\dog.cpp
+	"Dog.h"
+
+1700604572 c:\users\ahmed\desktop\mec acadmy\project oop\include\dog.h
+	<bits/stdc++.h>
+	<vector>
+	"Animal.h"
+
+1701740225 source:c:\users\ahmed\desktop\mec acadmy\project oop\src\cat.cpp
+	"Cat.h"
+
+1700512475 c:\users\ahmed\desktop\mec acadmy\project oop\include\cat.h
+	<bits/stdc++.h>
+	"Animal.h"
+
+1701740225 source:c:\users\ahmed\desktop\mec acadmy\project oop\src\bird.cpp
+	"Bird.h"
+
+1700512475 c:\users\ahmed\desktop\mec acadmy\project oop\include\bird.h
+	<bits/stdc++.h>
+	"Animal.h"
+
+1701520091 source:c:\users\ahmed\desktop\mec acadmy\project oop\src\customer.cpp
+	"Customer.h"
+
+1700523698 c:\users\ahmed\desktop\mec acadmy\project oop\include\customer.h
+	<bits/stdc++.h>
+	"Animal.h"
+	"Dog.h"
+	"Cat.h"
+	"Bird.h"
+	"Owner.h"
+
+1700604718 c:\users\ahmed\desktop\mec acadmy\project oop\include\owner.h
+	<bits/stdc++.h>
+	"Animal.h"
+	"Dog.h"
+	"Cat.h"
+	"Bird.h"
+
+1700605992 source:c:\users\ahmed\desktop\mec acadmy\project oop\src\owner.cpp
+	"Owner.h"
+
